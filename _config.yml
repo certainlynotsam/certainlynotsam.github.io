@@ -24,6 +24,9 @@ github_username: certainlynotsam
 minimal_mistakes_skin: default
 search: true
 
+masthead:
+  navigation: main
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
