@@ -20,4 +20,4 @@ supercomplexes in the mouse brain**. <ins>S. Daly</ins>, K. Morris, E. Bulovaite
 
 ## PhD Thesis
 
-**Advances in volumetric super-resolution microscopy and single-particle tracking**. <ins>S. Daly</ins>. (2024). [DOI](https://doi.org/10.17863/CAM.113698/) ⋅ [PDF](https://www.repository.cam.ac.uk/bitstreams/d187f5fd-317a-4158-9395-831759ec8c42/download/)
+**Advances in volumetric super-resolution microscopy and single-particle tracking**. <ins>S. Daly</ins>. (2024). [DOI](https://doi.org/10.17863/CAM.113698) ⋅ [PDF](https://www.repository.cam.ac.uk/bitstreams/d187f5fd-317a-4158-9395-831759ec8c42/download/)
