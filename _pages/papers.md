@@ -5,10 +5,11 @@ title: "Publications"
 
 ## Peer-Reviewed Journal Articles
 
+**Volumetric single-molecule tracking inside subcellular structures** S. Daly, J.E. Chambers, C. Jones, B. Fu, J.D. Manton, J.S. Beckwith, S.J. Marciniak, D.C. Gershlick*, S.F. Lee*. *Small* (2026). [DOI](https://doi.org/10.1101/2025.06.09.658280) ⋅ [PDF](https://www.biorxiv.org/content/10.1101/2025.06.09.658280v1.full.pdf/)
+
 **3D super-resolution imaging of PSD95 reveals an abundance of diffuse protein
 supercomplexes in the mouse brain**. <ins>S. Daly</ins>, K. Morris, E. Bulovaite, A. Handa, L. Muresan, A.
-Kitching, A. Spark, G. Chant, C. Adams, T. Kaizuka, K. O’Holleran, S.G.N. Grant*, M.H. Horrocks*,
-S.F. Lee*. *ACS Chemical Neuroscience* (2025). [DOI](https://pubs.acs.org/doi/10.1021/acschemneuro.4c00684)
+Kitching, A. Spark, G. Chant, C. Adams, T. Kaizuka, K. O’Holleran, S.G.N. Grant*, M.H. Horrocks*, S.F. Lee*. *ACS Chemical Neuroscience* (2025). [DOI](https://pubs.acs.org/doi/10.1021/acschemneuro.4c00684)
 
 **Vortex light field microscopy: 3D spectral single-molecule imaging with a twist**. B. Zhang,
 <ins>S. Daly</ins>, C. Zhu, M. Lenz, L.E. Weiss, L.M. Needham, R. Peters, S.F. Lee, K. O’Holleran. *Optica* (2024). [DOI](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-11-1519/)
