@@ -9,4 +9,4 @@ title: "Publications"
 
 **A comparative study of high-contrast fluorescence lifetime probes for imaging amyloid in
 tissue**. F. Gorka, <ins>S. Daly</ins>, C.M. Pearson, E. Bulovaite, Y.P. Zhang, A. Handa, S.G.N. Grant, T.N.
-Snaddon*, L-M. Needham*, and S.F. Lee*. **Journal of Physical Chemistry B** (2021). [DOI](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c07762) ⋅ [PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.1c07762?ref=article_openPDF)
+Snaddon*, L-M. Needham*, and S.F. Lee*. **Journal of Physical Chemistry B** (2021). [DOI](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c07762) ⋅ [PDF](https://drive.google.com/file/d/1P1xr8ODpTYNmHnJjcnWV6BNoJ17BHPet/view?usp=share_link)
