@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sam Daly"
+  name   : "Sam Daly (they/them)"
   avatar : "/assets/images/sam.jpg"
   bio    : "Microscopist. Researcher. Writer. Nature lover. Drummer."
   links:
