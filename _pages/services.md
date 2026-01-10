@@ -19,7 +19,7 @@ I provide tailored A-level tutoring in **Chemistry** and **Maths**. Possible ses
 
 ### Get in Touch
 
-If you are interested in any of the above, the easiest next step is simply to get in touch. We can discuss your needs, rates, and decide together on the most appropriate way to move forward.
+If you are interested in either of the above, the easiest next step is simply to get in touch. We can discuss your needs and decide together on the most appropriate way to move forward.
 
 Please feel free to contact me via the **[Contact](/contact/)** page.
 
