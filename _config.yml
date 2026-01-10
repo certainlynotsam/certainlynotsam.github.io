@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/sam.jpg"
   bio    : "Microscopist. Researcher. Writer. Nature lover. Drummer."
   links:
-    - label: "Departmental Website"
+    - label: "Departmental Webpage"
       icon: "fas fa-fw fa-link"
       url: "https://lee.group.ch.cam.ac.uk/person/sgd46/"
     - label: "Bluesky"
