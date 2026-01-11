@@ -64,7 +64,7 @@ An understanding of the subtleties of sugar chemistry and a little culinary flai
 
 
 ## Further reading
-I took inspiration for this article after performing some of Dr Joanna Buckley’s [‘Edible Experiments’](www.sheffield.ac.uk/chemistry/edibleexperiments), a series of food-based chemistry resources.
+I took inspiration for this article after performing some of Dr Joanna Buckley’s [‘Edible Experiments’](www.sheffield.ac.uk/chemistry/edibleexperiments/), a series of food-based chemistry resources.
 
 
 ## Glossary
