@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Sam Daly, PhD"
   avatar : "/assets/images/sam.jpg"
-  bio    : "Microscopist. Chemist. Writer. Drummer. Nature lover | pronouns: they/them"
+  bio    : "Microscopist. Chemist. Writer. Drummer. Nature lover."
   links:
     - label: "Departmental Webpage"
       icon: "fas fa-fw fa-link"
