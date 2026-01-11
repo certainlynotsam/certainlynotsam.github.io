@@ -17,19 +17,19 @@ Sugars play a vital role in sweet chemistry, and most often come in the form of 
 
 Have you ever considered the chemistry going on when you eat a sweet? Sweets have been around for centuries (Box 1). Not only do they have to taste good, but the way in which the ingredients react in your mouth provide many of the pleasurable sensations involved in eating them. This article aims to explain the ways popular sweets work.
 
-### Sherbet fountains
+## Sherbet fountains
 The sherbet fountain is a popular traditional sweet. It is composed of a liquorice stick and a crystalline powder (sherbet). Sherbet is made from citric acid and sodium hydrogen carbonate (bicarbonate of soda). This powder gives rise to a fizzing sensation in the mouth, as the saliva in the mouth provides a watery medium for a reaction to occur as the citric acid and bicarbonate of soda (a base) dissolve. The reaction of an acid with a carbonate releases carbon dioxide, water and a salt (in this case sodium citrate, Figure 2). 
 
 Other ingredients such as icing sugar are also added to the powdery mixture to give the sherbet a sweet taste, blending with the sourness of the citric acid and salty/soapy taste of the bicarbonate of soda. The confectioner may add other flavourings as well to give an individual taste to the powder. 
 
 Many of the experiments chemists deal with in the laboratory are *exothermic*, i.e. they give out heat to the surroundings. However, the reaction between citric acid and bicarbonate of soda is *endothermic*, i.e. heat is absorbed from the surroundings. This means that when you eat sherbet the temperature in your mouth drops, as heat is absorbed by the reaction&mdash;so eating sherbet feels cool.
 
-> ### Box 1: A brief history of sweets
+> ### A brief history of sweets
 > <p>Up to the early 1800s sweets were a handmade delicacy, requiring skill and practice to perfect. Sweets used to have rich, pungent flavours, much more than they do today due to the individual craftsmanship. It was only as industrial methods developed that they began to be made in high quantities, with reduced quality and care. The first ever ‘sweet’ was honey, which was used as far back as prehistoric times.</p>
 > <p>In Tudor times those who could afford luxuries enjoyed the likes of jellied fruit, marzipan, gingerbread and sugared almonds. This was all before the introduction of chocolate bars in the mid-nineteenth century, a time when many sweet and chocolate factories were founded, including Cadbury, Fry’s and Rowntree’s. With the advent of the sweet industry, confectionery was made on a larger scale.</p> 
 > <p>Hard-crack sweets were common and are still made the same way today by specialist traditional confectioners. The thick, coloured, flavoured sugar syrup is moulded by hand, while being warmed to ensure an even distribution of temperature. It is then extruded to the right diameter, chopped into the right-size pieces and cooled to form a hard, solid sweet. Sticks of rock are an example of hard-crack sweets and are famous for having lettering or pictures running through the length of the stick. Large versions of the letters or images are formed from layers of coloured, soft, warm candy then enclosed into a roll, which is pulled out to the right diameter before the candy sets hard.</p> 
 
-### Popping candy 
+## Popping candy 
 
 Popping candy pops in your mouth, giving rise to its unique sensation on the tongue as it cracks and snaps. The ingredients of popping candy are similar to many other sweets: sugar, corn syrup and flavourings. These are mixed together with some water and heated, boiling off all of the water present, leaving a thick, syrupy residue. 
 
@@ -37,7 +37,7 @@ The resulting syrup is pressurised to around 41 atmospheres (~4MPa) with carbon 
 
 These fragments contain tiny bubbles of pressurised carbon dioxide. When the brittle candy is dissolved in the mouth, the trapped bubbles of pressurised carbon dioxide are released with snaps and pops in your mouth.
 
-### After-dinner mints
+## After-dinner mints
 
 Have you ever eaten an after-dinner mint and wondered how the gooey, liquid fondant centre is coated with chocolate while retaining a perfect shape? One method of making soft- or liquid-centred chocolates is to inject the filling into the chocolate shell and seal the hole with more chocolate. But there are no holes to be seen on an after dinner mint, so how do they do it? 
 
@@ -45,7 +45,7 @@ The fondant centre is composed of water, sugar, mint flavouring and invertase. I
 
 Initially the fondant centre is very firm and can be coated with chocolate. The mints are then stored at room temperature for 3 days, and this is when invertase gets to work. All of the sucrose is converted into fructose and glucose. As these monosaccharides are smaller molecules than sucrose, they pass over one another with ease, giving a more fluid-like consistency. Now the chocolates are ready to be boxed up and sold as after-dinner mints.
 
-### Fudge
+## Fudge
 
 When sugar dissolves in water, a sugar syrup is formed. The degree to which the sugar dissolves increases as the temperature increases, meaning that the greater the temperature the higher the concentration of sugar it is possible to dissolve. When this sugar syrup is cooled it becomes *super saturated*, in other words the amount of sugar stored in the solution is greater than its limit at that temperature. The objective at this stage is to prevent the sugar crystallising out of the solution, which can easily happen because a super-saturated solution is unstable and a slight knock can initiate crystallisation. 
 
@@ -62,31 +62,28 @@ To prevent unwanted sugar crystals forming when making non-crystalline sweets, y
 
 An understanding of the subtleties of sugar chemistry and a little culinary flair can lead to sweet success. Such knowledge can also lead to a greater appreciation of the craft of the confectioner.
 
-> ### Further reading
->I took inspiration for this article after performing some of Dr Joanna Buckley’s [‘Edible Experiments’](www.sheffield.ac.uk/chemistry/edibleexperiments), a series of food-based chemistry resources.
+---
 
-> ### Glossary
->
-> **Carbohydrates**\
-The most abundant class of biological molecules. They are composed of carbon, hydrogen and oxygen based on the general formula C<sub>x</sub>(H2O)<sub>y</sub>. The simplest carbohydrates are the sugars.
->
->**Condensation reaction**\
-The combining of two molecules with the loss of a small molecule (e.g. water). 
->
->**Disaccharide**\
-A sugar formed by the condensation of two monosaccharides (which may be the same or different), e.g. sucrose (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>) is made from glucose and fructose. 
->
->**Enzyme**\
-A specific type of protein that acts as a biological catalyst, speeding up a chemical reaction while remaining unchanged itself. Enzyme names are denoted by the suffix *-ase*. 
->
->**Monosaccharide**\
-A sugar (carbohydrate) with an empirical formula (C<sub>n</sub>H<sub>2n</sub>O<sub>n</sub>) where n = 3&ndash;9. Glucose and fructose are examples of six-carbon monosaccharides. 
->
->**Oligosaccharide**\
-A carbohydrate formed by the condensation of a small number (three to ten) of monosaccharides. 
->
->**Starch**\
-A polysaccharide found in plants. It is a polymer formed by the condensation of many glucose molecules.
+### Further reading
+I took inspiration for this article after performing some of Dr Joanna Buckley’s [‘Edible Experiments’](www.sheffield.ac.uk/chemistry/edibleexperiments), a series of food-based chemistry resources.
+
+---
+
+### Glossary
+
+ **Carbohydrates**. The most abundant class of biological molecules. They are composed of carbon, hydrogen and oxygen based on the general formula C<sub>x</sub>(H2O)<sub>y</sub>. The simplest carbohydrates are the sugars.
+
+**Condensation reaction**. The combining of two molecules with the loss of a small molecule (e.g. water). 
+
+**Disaccharide**. A sugar formed by the condensation of two monosaccharides (which may be the same or different), e.g. sucrose (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>) is made from glucose and fructose. 
+
+**Enzyme**. A specific type of protein that acts as a biological catalyst, speeding up a chemical reaction while remaining unchanged itself. Enzyme names are denoted by the suffix *-ase*. 
+
+**Monosaccharide**. A sugar (carbohydrate) with an empirical formula (C<sub>n</sub>H<sub>2n</sub>O<sub>n</sub>) where n = 3&ndash;9. Glucose and fructose are examples of six-carbon monosaccharides. 
+
+**Oligosaccharide**. A carbohydrate formed by the condensation of a small number (three to ten) of monosaccharides. 
+
+**Starch**. A polysaccharide found in plants. It is a polymer formed by the condensation of many glucose molecules.
 
 
 
