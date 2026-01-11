@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - Chemistry Review
+image: assets/images/candy_article/Figure 1.png
 ---
 
 *There’s a real art to making sweets, and a lot of chemistry too…*
@@ -13,7 +14,7 @@ tags:
 
 **Sugars are everywhere.** They are the building blocks of carbohydrates, the most abundant type of organic molecule in living things. These carbohydrates provide us with energy. 
 
-Sugars play a vital role in sweet chemistry, and most often come in the form of monosaccharides, e.g. glucose and fructose, or disaccharides, e.g. sucrose, (see Figure 1). 
+Sugars play a vital role in sweet chemistry, and most often come in the form of monosaccharides, e.g. glucose and fructose, or disaccharides, e.g. sucrose, (see Figure 1).
 
 Have you ever considered the chemistry going on when you eat a sweet? Sweets have been around for centuries (Box 1). Not only do they have to taste good, but the way in which the ingredients react in your mouth provide many of the pleasurable sensations involved in eating them. This article aims to explain the ways popular sweets work.
 
