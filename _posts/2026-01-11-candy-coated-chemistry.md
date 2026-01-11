@@ -62,14 +62,12 @@ To prevent unwanted sugar crystals forming when making non-crystalline sweets, y
 
 An understanding of the subtleties of sugar chemistry and a little culinary flair can lead to sweet success. Such knowledge can also lead to a greater appreciation of the craft of the confectioner.
 
----
 
-### Further reading
+## Further reading
 I took inspiration for this article after performing some of Dr Joanna Buckley’s [‘Edible Experiments’](www.sheffield.ac.uk/chemistry/edibleexperiments), a series of food-based chemistry resources.
 
----
 
-### Glossary
+## Glossary
 
  **Carbohydrates**. The most abundant class of biological molecules. They are composed of carbon, hydrogen and oxygen based on the general formula C<sub>x</sub>(H2O)<sub>y</sub>. The simplest carbohydrates are the sugars.
 
