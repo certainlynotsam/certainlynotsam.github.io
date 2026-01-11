@@ -6,7 +6,7 @@ categories:
 tags:
   - Chemistry Review
 header:
-  image: /assets/images/candy_article/header.jpg
+  image: /assets/images/candy_article/header.png
 ---
 
 *There’s a real art to making sweets, and a lot of chemistry too…*
