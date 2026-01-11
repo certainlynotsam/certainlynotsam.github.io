@@ -5,7 +5,6 @@ categories:
   - blog
 tags:
   - Chemistry Review
-image: assets/images/candy_article/Figure 1.png
 ---
 
 *There’s a real art to making sweets, and a lot of chemistry too…*
@@ -16,10 +15,18 @@ image: assets/images/candy_article/Figure 1.png
 
 Sugars play a vital role in sweet chemistry, and most often come in the form of monosaccharides, e.g. glucose and fructose, or disaccharides, e.g. sucrose, (see Figure 1).
 
+<p align="center">
+<img src="/assets/images/candy_article/Figure 1.png" alt="Figure 1" width="300">
+</p>
+
 Have you ever considered the chemistry going on when you eat a sweet? Sweets have been around for centuries (Box 1). Not only do they have to taste good, but the way in which the ingredients react in your mouth provide many of the pleasurable sensations involved in eating them. This article aims to explain the ways popular sweets work.
 
 ## Sherbet fountains
 The sherbet fountain is a popular traditional sweet. It is composed of a liquorice stick and a crystalline powder (sherbet). Sherbet is made from citric acid and sodium hydrogen carbonate (bicarbonate of soda). This powder gives rise to a fizzing sensation in the mouth, as the saliva in the mouth provides a watery medium for a reaction to occur as the citric acid and bicarbonate of soda (a base) dissolve. The reaction of an acid with a carbonate releases carbon dioxide, water and a salt (in this case sodium citrate, Figure 2). 
+
+<p align="center">
+<img src="/assets/images/candy_article/Figure 2.png" alt="Figure 2" width="300">
+</p>
 
 Other ingredients such as icing sugar are also added to the powdery mixture to give the sherbet a sweet taste, blending with the sourness of the citric acid and salty/soapy taste of the bicarbonate of soda. The confectioner may add other flavourings as well to give an individual taste to the powder. 
 
