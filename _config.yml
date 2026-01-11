@@ -61,9 +61,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sam Daly (they/them)"
+  name   : "Sam Daly, PhD"
   avatar : "/assets/images/sam.jpg"
-  bio    : "Microscopist. Researcher. Writer. Nature lover. Drummer."
+  bio    : "Microscopist. Chemist. Writer. Drummer. Nature lover | pronouns: they/them"
   links:
     - label: "Departmental Webpage"
       icon: "fas fa-fw fa-link"
