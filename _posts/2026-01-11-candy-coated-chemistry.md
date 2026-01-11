@@ -7,7 +7,9 @@ tags:
   - Chemistry Review
 ---
 
-### *There’s a real art to making sweets, and a lot of chemistry too…*
+*There’s a real art to making sweets, and a lot of chemistry too…*
+
+---
 
 **Sugars are everywhere.** They are the building blocks of carbohydrates, the most abundant type of organic molecule in living things. These carbohydrates provide us with energy. 
 
