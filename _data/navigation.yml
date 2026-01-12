@@ -11,8 +11,8 @@ main:
     url: /services/
   - title: "Contact"
     url: /contact/
-#  - title: "Posts"
-#    url: /posts/
+  - title: "Posts"
+    url: /posts/
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"
