@@ -44,5 +44,7 @@ Finally, there needs to be rotation in only one direction for it to be a rotary 
 challenge yourself a bit. There is so much to learn and discover. It’s a real joy when you uncover something. But most importantly, with your talents, follow your dreams.
 
 ## Further reading
+Read more about Ben Feringa's molecular motors in the accompanying article [**Molecular Cars**]({% link _posts/2026-01-12-molecular-cars.md %}).
+
 Read Ben Feringa's Nobel lecture "[The Art of Building Small: from
 Molecular Switches to Motors](https://www.nobelprize.org/uploads/2018/06/feringa-lecture.pdf)" online at [nobelprize.org](https://www.nobelprize.org/) and be first to learn about future prizewinners.
