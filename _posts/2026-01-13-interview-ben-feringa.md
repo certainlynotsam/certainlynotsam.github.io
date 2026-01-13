@@ -30,6 +30,10 @@ motor is?
 We were initially working on molecular switches. For example, in your eye, retinal switches with light energy from bent (*cis* retinal) to linear (*trans* retinal). We suddenly realised that one of our molecular switches wasn’t just switching but rotating forward in 90-degree turns. If we repeated the 90-degree turns, we had a full 360-degrees turn, and in fact a rotary motor. We realised the reason why it works is because using light we can go from 0 degrees to 90 degrees by putting in energy. The second form isn’t so stable and is driven forward to 180 degrees to be stable again. So, we have a cycle of four steps making the rotation possible. This is the principle for the rotary motor. We use the energy of the light, the ‘fuel’ just like the fuel for your car, to make the C=C bond rotate.\
 Finally, there needs to be rotation in only one direction for it to be a rotary motor. Think of your car, if there is equal probability of going backwards and forwards you wouldn’t want to travel in it. So, we had to design a molecule with one single handedness (*chirality*) so that it moves only clockwise, or only anti-clockwise. You have directionality and motion.
 
+<p align="center">
+<img src="/assets/images/feringa/ben.png" alt="Ben Feringa" width="200">
+</p>
+
 **SD:** What potential do you see for molecular motors in the next few decades?
 
 **BF:** It is very early days, we are taking our first primitive steps. What we currently do is we rotate things on responsive soft surfaces, like the liquid crystal display on your smartphone. We are currently working on molecular muscles, which can work and bend. Applications will come, but this will take quite a bit of time. What you could think of is an object that may need to self-repair. Once you know how to use motion, you can begin to think of other designs and apply your knowledge. My prediction is that in about 50 years from now we will have tiny robots that are self-propelling, which you can inject into your veins and detect tumour cells or deliver a drug. At the moment it is science fiction, but why shouldn’t it become science reality?
