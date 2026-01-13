@@ -5,6 +5,8 @@ categories:
   - blog
 tags:
   - Chemistry Review
+header:
+  image: /assets/images/feringa/header.png
 ---
 
 Bernard (Ben) Feringa is a professor of chemistry at the University of Groningen in the Netherlands. In 2016 he, Jean-Pierre Sauvage and Fraser Stoddart were awarded the Nobel prize in chemistry ‘for the design and synthesis of molecular machines’. Ben Feringa recently visited the University of York, and Sam Daly took the opportunity to interview him for CHEMISTRY REVIEW.
