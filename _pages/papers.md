@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Peer-Reviewed Journal Articles
 
-**Volumetric single-molecule tracking inside subcellular structures**. <ins>S. Daly</ins>, J.E. Chambers, C. Jones, B. Fu, J.D. Manton, J.S. Beckwith, S.J. Marciniak, D.C. Gershlick, S.F. Lee. *Small* (2026). [DOI](https://doi.org/10.1101/2025.06.09.658280) ⋅ [PDF](https://www.biorxiv.org/content/10.1101/2025.06.09.658280v1.full.pdf/)
+**Volumetric single-molecule tracking inside subcellular structures**. <ins>S. Daly</ins>, J.E. Chambers, C. Jones, B. Fu, J.D. Manton, J.S. Beckwith, S.J. Marciniak, D.C. Gershlick, S.F. Lee. *Small* (2026). [DOI](https://onlinelibrary.wiley.com/doi/10.1002/smll.202509162) ⋅ [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smll.202509162)
 
 **3D super-resolution imaging of PSD95 reveals an abundance of diffuse protein
 supercomplexes in the mouse brain**. <ins>S. Daly</ins>, K. Morris, E. Bulovaite, A. Handa, L. Muresan, A. Kitching, A. Spark, G. Chant, C. Adams, T. Kaizuka, K. O’Holleran, S.G.N. Grant, M.H. Horrocks, S.F. Lee. *ACS Chemical Neuroscience* (2025). [DOI](https://pubs.acs.org/doi/10.1021/acschemneuro.4c00684)
